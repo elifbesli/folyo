@@ -35,3 +35,14 @@ Setting Update "run_key"
 ** Message: moving back from GtkStatusIcon to indicator
 
 ** (zeitgeist-datahub:2079): WARNING **: zeitgeist-datahub.vala:227: Unable to get name "org.gnome.zeitgeist.datahub" on the bus!
+Nautilus-Share-Message: Called "net usershare info" but it failed: 'ağ kullanıcı paylaşımı' 255 hatası ile geri döndü: net usershare: cannot open usershare directory /var/lib/samba/usershares. Error Böyle bir dosya ya da dizin yok
+Please ask your system administrator to enable user sharing.
+
+
+(gnome-settings-daemon:1761): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:1761): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:1761): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:1761): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
